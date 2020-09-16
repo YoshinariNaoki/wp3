@@ -20,15 +20,15 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'dbname' );
+define( 'DB_NAME', 'LAA1203622-yoshinari' );
 
 /** MySQL database username */
-define( 'DB_USER', 'user' );
+define( 'DB_USER', 'LAA1203622' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'abc123' );
+define( 'DB_PASSWORD', 'naoki0913' );
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql146.phy.lolipop.lan' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -87,3 +87,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+define('WP_HOME','http://cajon-yoshinari.gloomy.jp/');
+define('WP_SITEURL','http://cajon-yoshinari.gloomy.jp/');

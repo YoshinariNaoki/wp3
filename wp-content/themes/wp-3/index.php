@@ -70,7 +70,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="col-md-6 grid_1">
 			<h4 class="m_2">Testimonial</h4>
 			<div class="lsidebar span_1_of_about">
-			  <img src="images/t1.jpg" class="img-responsive" alt=""/>
+			  <img src="http://cajon-yoshinari.gloomy.jp/wp-content/themes/wp-3/images/t1.jpg" class="img-responsive" alt=""/>
 			</div>
 			<div class="cont span_2_of_about">
 			  <p><span class="quotes"> </span>Lorem ipsum dolor sit amet, adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.<span class="quote_down"></span></p>
@@ -81,7 +81,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="col-md-6 grid_1">
 			<h4 class="m_2">From The Blog</h4>
 			<div class="lsidebar span_1_of_about">
-			  <img src="images/t2.jpg" class="img-responsive" alt=""/>
+			  <img src="http://cajon-yoshinari.gloomy.jp/wp-content/themes/wp-3/images/t2.jpg" class="img-responsive" alt=""/>
 			  <h5><time datetime=""><span class="day">5</span><br><span class="month">Dec</span></time></h5>
 			</div>
 			<div class="cont span_2_of_about">
